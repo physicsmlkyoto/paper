@@ -1,2 +1,2 @@
 # paper
-suvery
+survey
